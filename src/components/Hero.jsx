@@ -10,6 +10,7 @@ const Hero = () => {
                     <p className='w-8 md:w-11 h-[2px] bg-[#414141]'></p>
                     <p className='font-medium text-sm md:text-base'>OUR BESTSELLERS</p>
                 </div>
+                <h1 className='text-3x1 sm:py-3 lg:text-5x1 leading-relaxed'>Latest Arrivals</h1>
             </div>
 
         </div>
