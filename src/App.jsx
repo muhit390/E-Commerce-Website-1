@@ -28,8 +28,9 @@ const App = () => {
         <Route path='/product/:productId' element={<Product/>}/>
       </Routes>
 
+
     </div>
   )
 }
 
-export default App;
+export default App
