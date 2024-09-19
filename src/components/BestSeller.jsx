@@ -19,7 +19,7 @@ const BestSeller = () => {
         <div className='text-center text-3x1 py-8'>
             <Title text1={'BEST'} text2={'SELLERS'}/>
             <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-                excepteur ipsum est cupidatat laborum culpa in minim ut eu pariatur
+                excepasteur ipsum est cupidatat laborum culpa in minim ut eu pariatur
             </p>
         </div>
 
